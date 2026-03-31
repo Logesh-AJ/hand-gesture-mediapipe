@@ -41,13 +41,13 @@ Real-time hand gesture recognition system built using MediaPipe, featuring custo
 
 ## 📸 Results
 
-![Gesture Output](demo_images/)
+![Gesture Output](demo_images/Screenshot2026-03-31133024)
 
 ---
 
 ## 🎥 Demo
 
-[Watch Demo Video](demo_video/ScreenRecording2026-03-31132957)
+[Watch Demo Video](https://youtu.be/EAgwuLkFv_E)
 
 ---
 
@@ -124,8 +124,5 @@ hand-gesture-mediapipe/
 ---
 
 ## 👤 Author
-
 **Logesh A J**
-Electronics & Communication Engineering | AI & Embedded Systems
-
 ---
