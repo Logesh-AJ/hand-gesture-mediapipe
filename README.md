@@ -50,7 +50,7 @@ Real-time hand gesture recognition system built using MediaPipe, featuring custo
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/hand-gesture-mediapipe.git
+git clone https://github.com/Logesh-AJ/hand-gesture-mediapipe.git
 ```
 
 2. Navigate to the project folder
