@@ -14,4 +14,17 @@
    - Gesture prediction using trained model  
 
 4. Output  
-   - Recognized gestures displayed in real-time  
+   - Recognized gestures displayed in real-time
+   
+⚙️ System Requirements
+
+- Python >= 3.8  
+- Webcam (for real-time gesture detection)  
+- OS: Windows / Linux / macOS  
+
+📦 Dependencies
+
+Install required libraries:
+
+```bash
+pip install -r requirements.txt
