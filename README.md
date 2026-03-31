@@ -41,13 +41,13 @@ Real-time hand gesture recognition system built using MediaPipe, featuring custo
 
 ## 📸 Results
 
-![Gesture Output](demo_images/sample1.png)
+![Gesture Output](demo_images/)
 
 ---
 
 ## 🎥 Demo
 
-[Watch Demo Video](demo_video/demo.mp4)
+[Watch Demo Video](demo_video/Screen Recording 2026-03-31 132957)
 
 ---
 
